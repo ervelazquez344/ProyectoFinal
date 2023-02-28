@@ -34,6 +34,11 @@ body {
     border-radius: 100px;
   }
 
+  #correo{
+    color: black;
+    font-size: large;
+  }
+
   main{
     width: 75%;
   }   
